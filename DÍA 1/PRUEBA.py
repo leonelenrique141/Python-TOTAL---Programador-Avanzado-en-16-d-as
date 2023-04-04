@@ -1,0 +1,1 @@
+print('Tú nombre es: '+ (input('Primer nombre: ') + ' ' + (input('Segundo Nombre: '))))
